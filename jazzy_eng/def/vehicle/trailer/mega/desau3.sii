@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.desau3
+{
+	model: "/vehicle/trailer_eu/mega_cargo/desau3.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/desau3.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/desau3.pmc"
+
+	variant: default
+	look: default
+}
+}
+

@@ -1,0 +1,36 @@
+SiiNunit
+{
+@include "trailer/reefer_traffic.sii"
+@include "trailer/car_transporter_traffic.sii"
+@include "trailer/aero_dynamic_traffic.sii"
+@include "trailer/container_traffic.sii"
+@include "trailer/food_cistern_traffic.sii"
+@include "trailer/fuel_cistern_traffic.sii"
+@include "trailer/log_trailer_traffic.sii"
+@include "trailer/paneltrans_traffic.sii"
+@include "trailer/cement_traffic.sii"
+@include "trailer/krone_coolliner_traffic.sii"
+@include "trailer/krone_profiliner_traffic.sii"
+@include "trailer/schmitz_universal_traffic.sii"
+@include "trailer/brick_trailer_traffic.sii"
+@include "trailer/cement_mixer _traffic.sii"
+@include "trailer/brick_explo _traffic.sii"
+
+@include "trailer/opentop_coal_traffic.sii"
+@include "trailer/gooseneck_cargo40_traffic.sii"
+@include "trailer/gooseneck_cistern_traffic.sii"
+@include "trailer/gooseneck_cistern_phosphor_traffic.sii"
+@include "trailer/opentop_gravel_traffic.sii"
+@include "trailer/opentop_ore_traffic.sii"
+@include "trailer/opentop_sand_traffic.sii"
+
+@include "trailer/s_ki_solid_coal_traffic.sii"
+@include "trailer/s_ki_solid_gravel_traffic.sii"
+@include "trailer/s_ki_solid_ore_traffic.sii"
+@include "trailer/s_ki_solid_sand_traffic.sii"
+@include "trailer/gooseneck_cargo20_traffic.sii"
+@include "trailer/gooseneck_cargo20b_traffic.sii"
+@include "trailer/gooseneck_cargo30_traffic.sii"
+@include "trailer/glass_trailer_traffic.sii"
+}
+

@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.tgm3
+{
+	name: "TGM3-1010"
+
+	vehicles[]: trailer.overweight5.tgm3
+
+	mass[]: 60000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

@@ -1,0 +1,20 @@
+﻿
+cargo_data: cargo.desau
+{
+	name: "Box car Dessau 840"
+
+	vehicles[]: trailer.mega.desau1
+	vehicles[]: trailer.mega.desau2
+	vehicles[]: trailer.mega.desau3
+	vehicles[]: trailer.mega.desau4
+
+	mass[]: 30000.0
+	mass[]: 30000.0
+	mass[]: 30000.0
+	mass[]: 30000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

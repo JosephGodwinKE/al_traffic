@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.met_lom
+{
+	name: "Old locomotive"
+
+	vehicles[]: trailer.mega.diesel
+
+	mass[]: 50000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

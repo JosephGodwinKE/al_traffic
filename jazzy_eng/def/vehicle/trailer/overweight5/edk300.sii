@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.overweight5.edk300
+{
+	model: "/vehicle/trailer_eu/over5_cargo/edk300.pmd"
+	lods[]: "/vehicle/trailer_eu/over5_cargo/edk300.pmd"
+	collision: "/vehicle/trailer_eu/over5_cargo/edk300.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

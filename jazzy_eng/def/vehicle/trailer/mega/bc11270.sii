@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.bc11270
+{
+	model: "/vehicle/trailer_eu/mega_cargo/bc11270.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/bc11270.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/bc11270.pmc"
+
+	variant: default
+	look: default
+}
+}
+

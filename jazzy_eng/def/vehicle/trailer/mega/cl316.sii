@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.cl316
+{
+	model: "/vehicle/trailer_eu/mega_cargo/cl316.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/cl316.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/cl316.pmc"
+
+	variant: default
+	look: default
+}
+}
+

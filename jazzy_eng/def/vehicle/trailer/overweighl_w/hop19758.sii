@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.overweighl_w.hop19758
+{
+	model: "/vehicle/trailer_eu/over_cargolw/hop19758.pmd"
+	lods[]: "/vehicle/trailer_eu/over_cargolw/hop19758.pmd"	
+	collision: "/vehicle/trailer_eu/over_cargolw/hop19758.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

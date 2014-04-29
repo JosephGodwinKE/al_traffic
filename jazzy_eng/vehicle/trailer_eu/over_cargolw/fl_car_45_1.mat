@@ -1,0 +1,10 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/over_cargolw/fl_car_45_1.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	specular : { 0.1 , 0.1 , 0.1 }
+	shininess : 50
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+
+}

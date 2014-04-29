@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.plat_bort.r_kit
+{
+	model: "/vehicle/trailer_eu/plat_bort_cargo/r_kit.pmd"
+	lods[]: "/vehicle/trailer_eu/plat_bort_cargo/r_kit.pmd"
+
+ 
+	variant: default
+	look: default
+}
+}
+

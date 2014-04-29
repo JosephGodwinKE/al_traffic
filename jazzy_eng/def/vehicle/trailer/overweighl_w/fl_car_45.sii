@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.overweighl_w.fl_car_45
+{
+	model: "/vehicle/trailer_eu/over_cargolw/fl_car_45.pmd"
+	lods[]: "/vehicle/trailer_eu/over_cargolw/fl_car_45.pmd"	
+	collision: "/vehicle/trailer_eu/over_cargolw/fl_car_45.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

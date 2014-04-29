@@ -1,0 +1,38 @@
+trailer : traffic.trailer.opentop.coal 
+{
+	accessories[]: .traffic.opentop.coal.tchassis
+	accessories[]: .traffic.opentop.coal.trwheel0
+	accessories[]: .traffic.opentop.coal.trwheel1
+	accessories[]: .traffic.opentop.coal.trwheel2
+	accessories[]: .traffic.opentop.coal.cargo
+}
+
+vehicle_accessory: .traffic.opentop.coal.tchassis
+{
+    	data_path: "/def/vehicle/trailer/opentop/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.opentop.coal.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+
+vehicle_wheel_accessory: .traffic.opentop.coal.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+
+vehicle_wheel_accessory: .traffic.opentop.coal.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/r_wheel/steel.sii"
+}
+vehicle_accessory: .traffic.opentop.coal.cargo
+{
+    	data_path: "/def/vehicle/trailer/opentop/coal.sii"
+}
+ 
+
+

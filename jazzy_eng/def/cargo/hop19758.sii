@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.hop19758
+{
+	name: "Hopper 19-758"
+
+	vehicles[]: trailer.overweighl_w.hop19758
+
+	mass[]: 22000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.42
+}

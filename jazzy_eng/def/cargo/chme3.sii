@@ -1,0 +1,16 @@
+﻿
+cargo_data: cargo.chme3
+{
+	name: "CHME3"
+
+	vehicles[]: trailer.mega.chme3
+	vehicles[]: trailer.mega.chme3rj
+
+	mass[]: 55000.0
+	mass[]: 60000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

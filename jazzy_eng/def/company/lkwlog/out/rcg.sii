@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _ups.out.rcg {
+ cargo: "cargo.rcg"
+}
+
+}

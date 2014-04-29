@@ -1,0 +1,36 @@
+trailer : traffic.trailer.gooseneck.cargo30 
+{
+	accessories[]: .traffic.gooseneck.cargo30.tchassis
+	accessories[]: .traffic.gooseneck.cargo30.trwheel0
+	accessories[]: .traffic.gooseneck.cargo30.trwheel1
+	accessories[]: .traffic.gooseneck.cargo30.trwheel2
+	accessories[]: .traffic.gooseneck.cargo30.cargo
+}
+
+vehicle_accessory: .traffic.gooseneck.cargo30.tchassis
+{
+    	data_path: "/def/vehicle/trailer/gooseneck/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cargo30.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cargo30.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cargo30.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+vehicle_accessory: .traffic.gooseneck.cargo30.cargo
+{
+    	data_path: "/def/vehicle/trailer/gooseneck/cargo30.sii"
+}
+

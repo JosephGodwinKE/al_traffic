@@ -1,0 +1,16 @@
+﻿
+cargo_data: cargo.rcg
+{
+	name: "Gondola"
+
+	vehicles[]: trailer.mega.rcg
+	vehicles[]: trailer.mega.rsg
+
+	mass[]: 26000.0
+	mass[]: 26000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

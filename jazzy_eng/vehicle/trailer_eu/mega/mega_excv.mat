@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/mega/excv.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.337255 , 0.337255 , 0.337255 }
+	shininess : 50
+	add_ambient : 0
+
+}

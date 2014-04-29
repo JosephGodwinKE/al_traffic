@@ -1,0 +1,25 @@
+SiiNunit
+{
+accessory_chassis_data : chassis.trailer.plat_bort
+{
+	model: "/vehicle/trailer_eu/plat_bort/plat_bort.pmd"
+	lods[]: "/vehicle/trailer_eu/plat_bort/plat_bort_lod.pmd"
+	collision: "/vehicle/trailer_eu/plat_bort/plat_bort.pmc"
+
+	residual_travel[]: 0.12 	# 1st axle
+	residual_travel[]: 0.12 	# 2nd axle
+	residual_travel[]: 0.12 	# 3rd axle
+ 
+	trailer_mass: 5500.0
+
+	variant: default
+	
+	extended_shadow_texture: "/vehicle/trailer_eu/brick_trailer/shadow.tobj"
+	extended_shadow_intensity: 1.3
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	
+	ui_shadow: "/vehicle/trailer_eu/brick_trailer/ui_shadow.pmd"
+}
+}
+

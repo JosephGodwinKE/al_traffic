@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.bc11270
+{
+	name: "Box car 11-270"
+
+	vehicles[]: trailer.mega.bc11270
+
+	mass[]: 23000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

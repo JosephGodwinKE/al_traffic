@@ -1,0 +1,20 @@
+﻿
+cargo_data: cargo.cist15150
+{
+	name: "Tanker 15-150"
+
+	vehicles[]: trailer.overweight5.cist15150
+	vehicles[]: trailer.overweight5.cist15150_3
+	vehicles[]: trailer.overweight5.cist15150_4
+	vehicles[]: trailer.overweight5.cist15150_5
+
+	mass[]: 23000.0
+	mass[]: 23000.0
+	mass[]: 23000.0
+	mass[]: 23000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

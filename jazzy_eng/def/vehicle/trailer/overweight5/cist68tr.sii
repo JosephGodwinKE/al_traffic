@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_chassis_data : chassis.trailer.cist68tr
+{
+	model: "/vehicle/trailer_eu/traf/cist68tr.pmd" 	
+ 	lods[]: "/vehicle/trailer_eu/traf/cist68tr_lod.pmd"
+	collision: "/vehicle/trailer_eu/traf/cist68tr.pmc"
+
+	residual_travel[]: 0.12 	# 1st axle
+	residual_travel[]: 0.12 	# 2nd axle
+	residual_travel[]: 0.12 	# 3rd axle
+	residual_travel[]: 0.12 	# 2nd axle
+	residual_travel[]: 0.12 	# 3rd axle
+ 
+	trailer_mass: 7500.0
+
+	variant: default
+	
+
+}
+}

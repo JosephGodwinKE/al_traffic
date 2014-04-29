@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.edk300
+{
+	name: "Takraf EDK300/5"
+
+	vehicles[]: trailer.overweight5.edk300
+
+	mass[]: 45000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

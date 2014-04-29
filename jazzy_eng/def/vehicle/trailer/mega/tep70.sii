@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.tep70
+{
+	model: "/vehicle/trailer_eu/mega_cargo/tep70.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/tep70.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/tep70.pmc"
+
+	variant: default
+	look: default
+}
+}
+

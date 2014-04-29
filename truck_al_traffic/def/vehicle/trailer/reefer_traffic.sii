@@ -1,0 +1,32 @@
+trailer : traffic.trailer.reefer 
+{
+	accessories[]: .traffic.reefer.tchassis
+	accessories[]: .traffic.reefer.trwheel0
+	accessories[]: .traffic.reefer.trwheel1
+	accessories[]: .traffic.reefer.trwheel2
+}
+
+vehicle_accessory: .traffic.reefer.tchassis
+{
+    	data_path: "/def/vehicle/trailer/reefer/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.reefer.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.reefer.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.reefer.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+

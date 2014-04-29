@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.track
+{
+	name: "Rail stack"
+
+	vehicles[]: trailer.flat_bed.track
+
+	mass[]: 17000.0
+
+	fragility: 0.1
+	heavy: true
+	
+	price_coef: 1.45
+}

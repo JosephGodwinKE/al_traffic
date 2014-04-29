@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _tradeaux.out.hop19758 {
+ cargo: "cargo.hop19758"
+}
+
+}

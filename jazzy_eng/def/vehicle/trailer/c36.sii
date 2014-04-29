@@ -1,0 +1,40 @@
+trailer : trailer.mega.c36
+{
+	accessories[]: .mega.c36.tchassis
+	accessories[]: .mega.c36.trwheel0
+	accessories[]: .mega.c36.trwheel1
+	accessories[]: .mega.c36.trwheel2
+	accessories[]: .mega.c36.trwheel3
+	accessories[]: .mega.c36.cargo
+}
+
+vehicle_accessory: .mega.c36.tchassis
+{
+    	data_path: "/def/vehicle/trailer/mega/chassis.sii"
+}
+
+vehicle_wheel_accessory: .mega.c36.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .mega.c36.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+vehicle_wheel_accessory: .mega.c36.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+vehicle_wheel_accessory: .mega.c36.trwheel3
+{
+	offset: 6
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+vehicle_accessory: .mega.c36.cargo
+{
+    	data_path: "/def/vehicle/trailer/mega/c36.sii"
+}

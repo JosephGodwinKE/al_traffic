@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _ups.out.2te {
+ cargo: "cargo.2te"
+}
+
+}

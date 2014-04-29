@@ -1,0 +1,16 @@
+﻿
+cargo_data: cargo.dgku
+{
+	name: "DGKU"
+
+	vehicles[]: trailer.overweighl_w.dgku1
+	vehicles[]: trailer.overweighl_w.dgku2
+
+	mass[]: 32000.0
+	mass[]: 32000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

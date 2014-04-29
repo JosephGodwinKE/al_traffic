@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/overweight/overweight_black.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.494118 , 0.494118 , 0.494118 }
+	specular : { 0.168627 , 0.168627 , 0.168627 }
+	shininess : 40
+	add_ambient : 0
+
+}

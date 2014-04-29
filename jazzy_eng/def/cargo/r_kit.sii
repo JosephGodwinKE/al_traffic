@@ -1,0 +1,13 @@
+﻿
+cargo_data: cargo.r_kit
+{
+	name: "Track repair kit"
+
+	vehicles[]: trailer.plat_bort.r_kit 
+
+	mass[]: 9000.0
+
+	fragility: 0.3
+	
+	price_coef: 1.368
+}

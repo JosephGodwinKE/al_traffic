@@ -1,0 +1,31 @@
+trailer : traffic.trailer.fuel_cistern 
+{
+	accessories[]: .traffic.fuel_cistern.tchassis
+	accessories[]: .traffic.fuel_cistern.trwheel0
+	accessories[]: .traffic.fuel_cistern.trwheel1
+	accessories[]: .traffic.fuel_cistern.trwheel2
+}
+
+vehicle_accessory: .traffic.fuel_cistern.tchassis
+{
+    	data_path: "/def/vehicle/trailer/fuel_cistern/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.fuel_cistern.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.fuel_cistern.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.fuel_cistern.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+} 
+

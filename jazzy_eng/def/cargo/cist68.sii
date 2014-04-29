@@ -1,0 +1,16 @@
+﻿
+cargo_data: cargo.cist68
+{
+	name: "Tanker type 68"
+
+	vehicles[]: trailer.overweight5.cist68
+	vehicles[]: trailer.overweight5.cist68_3
+
+	mass[]: 22000.0
+	mass[]: 22000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

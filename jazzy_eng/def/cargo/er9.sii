@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.er9
+{
+	name: "ER9"
+
+	vehicles[]: trailer.mega.er9
+
+	mass[]: 45000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

@@ -1,0 +1,16 @@
+﻿
+cargo_data: cargo.fl_car_62
+{
+	name: "Flatcar"
+
+	vehicles[]: trailer.mega.fl_car1_62
+	vehicles[]: trailer.mega.fl_car2_62
+
+	mass[]: 27000.0
+	mass[]: 27000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

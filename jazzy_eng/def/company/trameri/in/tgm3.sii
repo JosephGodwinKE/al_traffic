@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _trameri.in.tgm3 {
+ cargo: "cargo.tgm3"
+}
+
+}

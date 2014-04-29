@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.ss4
+{
+	name: "SS4 1086B"
+
+	vehicles[]: trailer.mega.ss4
+
+	mass[]: 65000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.48
+}

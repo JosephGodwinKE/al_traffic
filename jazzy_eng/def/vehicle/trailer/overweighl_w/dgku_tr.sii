@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_chassis_data : chassis.trailer.dgku_tr
+{
+	model: "/vehicle/trailer_eu/traf/dgku_tr.pmd"
+	lods[]: "/vehicle/trailer_eu/traf/dgku_tr_lod.pmd"
+	collision: "/vehicle/trailer_eu/traf/dgku_tr.pmc"
+
+	residual_travel[]: 0.12 	# 1st axle
+	residual_travel[]: 0.12 	# 2nd axle
+ 
+	trailer_mass: 8000.0
+
+	variant: default
+
+}
+}
+

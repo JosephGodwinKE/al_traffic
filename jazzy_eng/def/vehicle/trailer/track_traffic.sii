@@ -1,0 +1,35 @@
+trailer : 1.trailer.flat_bed.track
+{
+	accessories[]: .1.flat_bed.track.tchassis
+	accessories[]: .1.flat_bed.track.trwheel0
+	accessories[]: .1.flat_bed.track.trwheel1
+	accessories[]: .1.flat_bed.track.trwheel2
+	accessories[]: .1.flat_bed.track.cargo
+}
+
+vehicle_accessory: .1.flat_bed.track.tchassis
+{
+    	data_path: "/def/vehicle/trailer/flat_bed/chassis.sii"
+}
+
+vehicle_wheel_accessory: .1.flat_bed.track.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .1.flat_bed.track.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .1.flat_bed.track.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+vehicle_accessory: .1.flat_bed.track.cargo
+{
+    	data_path: "/def/vehicle/trailer/flat_bed/track.sii"
+}

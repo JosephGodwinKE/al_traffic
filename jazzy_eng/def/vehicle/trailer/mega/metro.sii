@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.metro
+{
+	model: "/vehicle/trailer_eu/mega_cargo/metro.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/metro.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/metro.pmc"
+
+	variant: default
+	look: default
+}
+}
+

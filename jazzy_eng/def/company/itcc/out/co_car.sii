@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _dpd.out.co_car {
+ cargo: "cargo.co_car"
+}
+
+}

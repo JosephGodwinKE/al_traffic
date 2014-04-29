@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _ups.out.chme3 {
+ cargo: "cargo.chme3"
+}
+
+}

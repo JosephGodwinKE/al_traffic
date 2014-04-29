@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.chs4
+{
+	model: "/vehicle/trailer_eu/mega_cargo/chs4.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/chs4.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/chs4.pmc"
+
+	variant: default
+	look: default
+}
+}
+

@@ -1,0 +1,10 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/trailer_eu/mega_cargo/desau3_1.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.1 , 0.1 , 0.1 }
+	shininess : 58
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+
+}

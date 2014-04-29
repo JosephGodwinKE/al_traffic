@@ -1,0 +1,38 @@
+trailer : traffic.trailer.gooseneck.cistern 
+{
+	accessories[]: .traffic.gooseneck.cistern.tchassis
+	accessories[]: .traffic.gooseneck.cistern.trwheel0
+	accessories[]: .traffic.gooseneck.cistern.trwheel1
+	accessories[]: .traffic.gooseneck.cistern.trwheel2
+	accessories[]: .traffic.gooseneck.cistern.cargo
+}
+
+vehicle_accessory: .traffic.gooseneck.cistern.tchassis
+{
+    	data_path: "/def/vehicle/trailer/gooseneck/chassis.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cistern.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cistern.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .traffic.gooseneck.cistern.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+vehicle_accessory: .traffic.gooseneck.cistern.cargo
+{
+    	data_path: "/def/vehicle/trailer/gooseneck/cistern.sii"
+}
+
+
+

@@ -1,0 +1,36 @@
+trailer : trailer.overweighl_w.hop19758 
+{
+	accessories[]: .overweighl_w.hop19758.tchassis
+	accessories[]: .overweighl_w.hop19758.trwheel0
+	accessories[]: .overweighl_w.hop19758.trwheel1
+	accessories[]: .overweighl_w.hop19758.trwheel2
+	accessories[]: .overweighl_w.hop19758.cargo
+}
+
+vehicle_accessory: .overweighl_w.hop19758.tchassis
+{
+    	data_path: "/def/vehicle/trailer/overweighl_w/chassis.sii"
+}
+
+vehicle_wheel_accessory: .overweighl_w.hop19758.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .overweighl_w.hop19758.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+vehicle_wheel_accessory: .overweighl_w.hop19758.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+vehicle_accessory: .overweighl_w.hop19758.cargo
+{
+    	data_path: "/def/vehicle/trailer/overweighl_w/hop19758.sii"
+}
+ 
+ 

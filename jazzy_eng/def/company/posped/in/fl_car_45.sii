@@ -1,0 +1,7 @@
+SiiNunit
+{
+cargo_def : _posped.in.fl_car_45 {
+ cargo: "cargo.fl_car_45"
+}
+
+}

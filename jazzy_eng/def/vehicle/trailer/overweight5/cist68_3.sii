@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.overweight5.cist68_3
+{
+	model: "/vehicle/trailer_eu/over5_cargo/cist68_3.pmd"
+	lods[]: "/vehicle/trailer_eu/over5_cargo/cist68_3.pmd"
+	collision: "/vehicle/trailer_eu/over5_cargo/cist68_3.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

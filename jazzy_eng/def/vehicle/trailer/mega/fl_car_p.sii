@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.fl_car_p
+{
+	model: "/vehicle/trailer_eu/mega_cargo/fl_car_p.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/fl_car_p.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/fl_car_p.pmc"
+
+	variant: default
+	look: default
+}
+}
+

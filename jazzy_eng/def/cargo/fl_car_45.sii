@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.fl_car_45
+{
+	name: "Flatcar"
+
+	vehicles[]: trailer.overweighl_w.fl_car_45
+
+	mass[]: 25000.0
+
+	fragility: 0.2
+	heavy: true
+	
+	price_coef: 1.42
+}

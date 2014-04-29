@@ -1,0 +1,10 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/trailer_eu/over5_cargo/cist15150_5.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.698039 , 0.698039 , 0.698039 }
+	specular : { 0 , 0 , 0 }
+	shininess : 7
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+
+}

@@ -1,0 +1,18 @@
+﻿
+cargo_data: cargo.co_car
+{
+	name: "Coil car"
+
+	vehicles[]: trailer.mega.co_car1
+	vehicles[]: trailer.mega.co_car2
+	vehicles[]: trailer.mega.co_car3
+
+	mass[]: 25000.0
+	mass[]: 25000.0
+	mass[]: 25000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.42
+}

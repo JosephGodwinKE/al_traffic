@@ -1,0 +1,14 @@
+﻿
+cargo_data: cargo.wagon
+{
+	name: "Coach"
+
+	vehicles[]: trailer.flat_bed2.wagon
+
+	mass[]: 18000.0
+
+	fragility: 0.5
+	heavy: true
+	
+	price_coef: 1.45
+}

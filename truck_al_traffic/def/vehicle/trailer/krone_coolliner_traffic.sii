@@ -1,0 +1,31 @@
+trailer : traffic.trailer.generic.coolliner
+{
+	accessories[]: .generic.coolliner.tchassis
+	accessories[]: .generic.coolliner.trwheel0
+	accessories[]: .generic.coolliner.trwheel1
+	accessories[]: .generic.coolliner.trwheel2
+}
+
+vehicle_accessory: .generic.coolliner.tchassis
+{
+    	data_path: "/def/vehicle/trailer/krone/coolliner/chassis.sii"
+}
+
+vehicle_wheel_accessory: .generic.coolliner.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .generic.coolliner.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+
+vehicle_wheel_accessory: .generic.coolliner.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/single.sii"
+}
+

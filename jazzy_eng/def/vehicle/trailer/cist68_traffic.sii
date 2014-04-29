@@ -1,0 +1,44 @@
+trailer : 1.trailer.overweight5.cist68 
+{
+	accessories[]: .1.overweight5.cist68.tchassis
+	accessories[]: .1.overweight5.cist68.trwheel0
+	accessories[]: .1.overweight5.cist68.trwheel1
+	accessories[]: .1.overweight5.cist68.trwheel2
+	accessories[]: .1.overweight5.cist68.trwheel3
+	accessories[]: .1.overweight5.cist68.trwheel4
+}
+
+vehicle_accessory: .1.overweight5.cist68.tchassis
+{
+    	data_path: "/def/vehicle/trailer/overweight5/cist68tr.sii"
+}
+
+vehicle_wheel_accessory: .1.overweight5.cist68.trwheel0
+{
+	offset: 0
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .1.overweight5.cist68.trwheel1
+{
+	offset: 2
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .1.overweight5.cist68.trwheel2
+{
+	offset: 4
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .1.overweight5.cist68.trwheel3
+{
+	offset: 6
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}
+
+vehicle_wheel_accessory: .1.overweight5.cist68.trwheel4
+{
+	offset: 8
+    	data_path: "/def/vehicle/t_wheel/overweight.sii"
+}

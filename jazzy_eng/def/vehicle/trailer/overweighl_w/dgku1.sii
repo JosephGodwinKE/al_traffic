@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.overweighl_w.dgku1
+{
+	model: "/vehicle/trailer_eu/over_cargolw/dgku1.pmd"
+	lods[]: "/vehicle/trailer_eu/over_cargolw/dgku1.pmd"	
+	collision: "/vehicle/trailer_eu/over_cargolw/dgku1.pmc"
+ 
+	variant: default
+	look: default
+}
+}
+

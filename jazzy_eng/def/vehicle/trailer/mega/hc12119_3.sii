@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.hc12119_3
+{
+	model: "/vehicle/trailer_eu/mega_cargo/hc12119_3.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/hc12119_3.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/hc12119_3.pmc"
+
+	variant: default
+	look: default
+}
+}
+

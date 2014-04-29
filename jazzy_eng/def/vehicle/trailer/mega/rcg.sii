@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_cargo_data : cargo.mega.rcg
+{
+	model: "/vehicle/trailer_eu/mega_cargo/rcg.pmd" 
+ 	lods[]: "/vehicle/trailer_eu/mega_cargo/rcg.pmd"
+	collision: "/vehicle/trailer_eu/mega_cargo/rcg.pmc"
+
+	variant: default
+	look: default
+}
+}
+
